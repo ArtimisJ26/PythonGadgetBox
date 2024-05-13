@@ -7,16 +7,17 @@ This Python program automates the process of extracting contents from zip folder
 ## How to Use
 
 1. Ensure that you have Python installed on your system.
-2. Download or clone this repository.
+2. Download the **unzip.py** file.
 3. Navigate to the folder containing your zip folders.
-4. Open a terminal or command prompt in that directory.
-5. Run the following command:
+4. Paste the Python file in this folder.
+5. Open a terminal or command prompt in that directory.
+6. Run the following command:
 
     ```bash
     python unzip.py
     ```
 
-6. Sit back and relax as the program automatically extracts the contents of each zip folder into separate directories.
+7. Sit back and relax as the program automatically extracts the contents of each zip folder into separate directories.
 
 ## Important Note
 
